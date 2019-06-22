@@ -18,5 +18,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-![Home UI](https://ibb.co/Mkwh9H1)
-![Option Details UI](https://ibb.co/5YWwnq6)
+![Home UI](https://i.ibb.co/QvScXVH/Screenshot-1561158043.png)
+![Option Details UI](https://i.ibb.co/vsxRQ2H/Screenshot-1561158071.png)

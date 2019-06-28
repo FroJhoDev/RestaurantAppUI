@@ -1,8 +1,9 @@
 # Restaurant App UI
 
 A new Flutter project. Created for the videos on my channel.
-- Part 01:
-- Part 02:
+- Part 01: https://www.youtube.com/watch?v=Xfot_HmMfBM
+- Part 02: https://www.youtube.com/watch?v=JS97V1rRWU4
+- Part 03: https://www.youtube.com/watch?v=m4-vgzGbrbs
 
 ## Getting Started
 

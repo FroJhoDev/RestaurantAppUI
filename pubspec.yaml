@@ -1,0 +1,42 @@
+name: restaurant_app_ui_2
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0-444.1.beta <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/recipe01.png
+    - assets/images/recipe02.png
+    - assets/images/recipe03.png
+    - assets/images/ahquedelicia_logo.jpg
+    - assets/images/user_profile.png
+    - assets/images/recipe_inlustration.jpg
+    - assets/images/beans.jpg
+    - assets/images/massa.jpg
+    - assets/images/rice.jpg
+    - assets/images/salad.jpg
+
+  fonts:  
+  - family: Rubik
+    fonts:
+      - asset: assets/fonts/Rubik-Regular.ttf
